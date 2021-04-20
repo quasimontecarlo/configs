@@ -12,7 +12,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const Bool viewontag         = True;     /* Switch view on tag switch */
 static const char *fonts[]          = { "Noto Sans Mono:size=11" };
-static const char dmenufont[]       = "monospace:size=10";
+static const char dmenufont[]       = "Noto Sans Mono:size=11";
 static const char col_gray1[]       = "#2e3440"; /* dark blue */
 static const char col_gray2[]       = "#8fbcbb"; /* green */
 static const char col_gray3[]       = "#d8dee9"; /* white */
@@ -50,7 +50,7 @@ static const Rule rules[] = {
 	/* class                       instance    title      tags mask      isfloating   monitor */
 	{ "Gimp",                      NULL,       NULL,       0,            0,           -1 },
 	{ "Xfce4-terminal",            NULL,       NULL,       0,            1,           -1 },
-	{ "firefox",                   NULL,       NULL,       0,            0,           -1 },
+	{ "firefox",                   NULL,       NULL,       0,            0,            1 },
 	{ "Arcolinux-welcome-app.py",  NULL,       NULL,       0,            1,           -1 },
 	{ "Arcolinux-calamares-tool.py",  NULL,       NULL,       0,            1,           -1 },	
 };
