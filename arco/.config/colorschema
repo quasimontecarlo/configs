@@ -1,0 +1,23 @@
+#crltt artic arco
+
+            #HEX       #CLASS
+
+foreground: #d8dee9    white
+background: #2e3440    blue
+cursor:     #4c566a    black
+color 0:    #3b4252    black
+color 1:    #bf616a    red
+color 2:    #a3be8c    green
+color 3:    #ebcb8b    yellow
+color 4:    #81a1c1    blue
+color 5:    #b48ead    magenta
+color 6:    #88c0d0    cyan
+color 7:    #e5e9f0    white
+color 8:    #4c566a    black
+color 9:    #bf4e59    red
+color10:    #99be79    green
+color11:    #ebc374    yellow
+color12:    #6e97c1    blue
+color13:    #b47caa    magenta
+color14:    #8fbcbb    cyan
+color15:    #eceff4    white
