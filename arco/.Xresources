@@ -33,7 +33,7 @@ URxvt*scrollTtyKeypress: true
 URxvt*internalBorder:    0
 URxvt*externalBorder:    0
 URxvt*colorIT:      	 #b48ead
-URxvt*colorBD:      	 #ebcb8b
+URxvt*colorBD:      	 #e5e9f0
 URxvt*colorUL:      	 #88c0d0
 
 !!! get your color schemes from here
@@ -50,7 +50,7 @@ URxvt*colorUL:      	 #88c0d0
 !*background:   [80]#404552
 !*background:   [70]#3F424A
 
-*.cursorColor:  #eceff4
+*.cursorColor:  #e5e9f0
 
 ! black
 *.color0:       #3b4252
@@ -170,7 +170,7 @@ xterm*color14: rgb:8f/bc/bb
 xterm*color15: rgb:ec/ef/f4
 xterm*boldMode: false
 xterm*colorBDMode: true
-xterm*colorBD: rgb:eb/cb/8b
+xterm*colorBD: rgb:e5/e9/f0
 
 
 
@@ -183,7 +183,7 @@ xterm*colorBD: rgb:eb/cb/8b
 UXTerm*termName: xterm-256color
 
 
-UXTerm*cursorColor:        #eceff4
+UXTerm*cursorColor:        #e5e9f0
 UXTerm*VT100.geometry:     100x30
 UXTerm*font:               Monospace
 UXTerm*faceSize:		   11
@@ -221,4 +221,4 @@ UXTerm*color15: rgb:ec/ef/f4
 
 UXTerm*boldMode: false
 UXTerm*colorBDMode: true
-UXTerm*colorBD: rgb:eb/cb/8b
+UXTerm*colorBD: rgb:e5/e9/f0
