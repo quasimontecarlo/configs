@@ -1,0 +1,8 @@
+#ENV VARIABLES
+
+export VIMRUNTIME="/usr/share/vim/vim82"
+
+# ALSIASES
+
+alias gaffer="/opt/gaffer-0.59.7.0/bin/gaffer"
+alias of="/opt/of_v0.11.2_linux64gcc6_release/projectGenerator-linux64/projectGenerator"
