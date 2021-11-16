@@ -66,7 +66,7 @@ static const struct arg args[] = {
 		{ cpu_perc, "[CPU %s%%]  ",   NULL  },
 		{ ram_perc, "[RAM %s%%]  ", NULL	      },
 		/*{ disk_free,"[hdd %sB]  | ",      "/" },*/
-		{ run_command, "[CPUtmp %s]  ", "sensors | awk '/Tdie:/ {print $2}'" },
+		{ run_command, "[CPUtmp %s]  ", "sensors | awk '/Tccd1:/ {print $2}'" },
         { run_command, "[GPUtmp +%s]  ", "nvidia-smi | awk '/P8/ {print $3}'" },
         { datetime, "%s","%a %b %d %R" }
 };
