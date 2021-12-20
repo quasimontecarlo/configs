@@ -6,7 +6,13 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 
 # ALSIASES
 
-alias nomachine='systemctl start nxserver.service'
+# nomachine
+alias nomachine="/usr/NX/bin/nxplayer"
+alias nxrestart="sudo /usr/NX/bin/nxserver --restart"
+alias nxconfig="sudo vim /usr/NX/etc/node.cfg"
+
+
+# sw
 alias gaffer="/opt/gaffer-0.59.7.0/bin/gaffer"
-alias processing="/opt/processing-4.0b1/processing"
+alias processing="/opt/processing-4.0b2/processing"
 alias of="/opt/of_v0.11.2_linux64gcc6_release/projectGenerator-linux64/projectGenerator"
