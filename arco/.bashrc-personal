@@ -10,7 +10,7 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 alias nomachine="/usr/NX/bin/nxplayer"
 alias nxrestart="sudo /usr/NX/bin/nxserver --restart"
 alias nxconfig="sudo vim /usr/NX/etc/node.cfg"
-
+alias pdf="evince"
 
 # sw
 alias gaffer="/opt/gaffer-0.59.7.0/bin/gaffer"
