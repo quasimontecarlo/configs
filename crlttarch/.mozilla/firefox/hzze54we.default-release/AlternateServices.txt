@@ -1,0 +1,7 @@
+https:encrypted-tbn0.gstatic.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19087	https:encrypted-tbn0.gstatic.com:443:encrypted-tbn0.gstatic.com:443::n:1651738755:h3:y:1649146467:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:terminal.sexy:443:.:^partitionKey=%28https%2Cterminal.sexy%29:3	0	19087	https:terminal.sexy:443:terminal.sexy:443::n:1649233043:h3:y:1649146467:n:^partitionKey=%28https%2Cterminal.sexy%29:|n:y:
+https:fonts.gstatic.com:443:.:^partitionKey=%28https%2Cterminal.sexy%29:3	0	19087	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1651738643:h3:y:1649146467:n:^partitionKey=%28https%2Cterminal.sexy%29:|n:y:
+https:fonts.googleapis.com:443:.:^partitionKey=%28https%2Cterminal.sexy%29:3	0	19087	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1651738643:h3:y:1649146467:n:^partitionKey=%28https%2Cterminal.sexy%29:|n:y:
+https:www.gstatic.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19087	https:www.gstatic.com:443:www.gstatic.com:443::n:1651738639:h3:y:1649146467:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:id.google.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19087	https:id.google.com:443:id.google.com:443::n:1651738755:h3:y:1649146467:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:play.google.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19087	https:play.google.com:443:play.google.com:443::n:1651738755:h3:y:1649146467:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:

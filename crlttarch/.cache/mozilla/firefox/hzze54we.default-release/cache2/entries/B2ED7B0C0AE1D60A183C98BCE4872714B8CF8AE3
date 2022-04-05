@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="4.1">
+    
+
+
+
+<Ad sequence="0">
+
+
+    <Wrapper>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[Credit - AU - .30]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></ViewableImpression>
+        <VASTAdTagURI><![CDATA[https://ads.bullionyield.com/vast?scid=532&adid=3215]]></VASTAdTagURI>
+        <Creatives>
+            <Creative>
+                <Linear>
+                    <VideoClicks>
+                        <ClickTracking><![CDATA[https://ads.bullionyield.com/click?id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></ClickTracking>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=ef89fbfd-0c70-40d0-832f-b4a0582a0033]]></Tracking>
+    
+</TrackingEvents>
+
+                </Linear>
+            </Creative>
+        </Creatives>
+    </Wrapper>
+
+</Ad>
+
+
+
+<Ad sequence="1">
+
+
+    <Wrapper>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[Tier 1 - AU]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></ViewableImpression>
+        <VASTAdTagURI><![CDATA[https://ads.bullionyield.com/vast?scid=532&adid=799]]></VASTAdTagURI>
+        <Creatives>
+            <Creative>
+                <Linear>
+                    <VideoClicks>
+                        <ClickTracking><![CDATA[https://ads.bullionyield.com/click?id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></ClickTracking>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=2a2139f3-c7b1-4297-9730-89d07c05c046]]></Tracking>
+    
+</TrackingEvents>
+
+                </Linear>
+            </Creative>
+        </Creatives>
+    </Wrapper>
+
+</Ad>
+
+
+
+<Ad sequence="2">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0222_games_3115]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=1b090663-49f7-4a32-b796-313119d6ea15]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=1b090663-49f7-4a32-b796-313119d6ea15]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3115">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=1b090663-49f7-4a32-b796-313119d6ea15]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=1b090663-49f7-4a32-b796-313119d6ea15]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=1b090663-49f7-4a32-b796-313119d6ea15]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/3bf8baa743aef033?placement_id=316&placement_na[%E2%80%A6]cement_name}&campaign_name=CPA+-+Games+-+WW+-+T1&ad_name=0222_games_3115]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=1b090663-49f7-4a32-b796-313119d6ea15]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=1b090663-49f7-4a32-b796-313119d6ea15]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=1b090663-49f7-4a32-b796-313119d6ea15]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/Games_0222/Creative_01.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="3">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0121_games_3117]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=4020f741-0e77-4407-b6a7-191b38794d34]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=4020f741-0e77-4407-b6a7-191b38794d34]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3117">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=4020f741-0e77-4407-b6a7-191b38794d34]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=4020f741-0e77-4407-b6a7-191b38794d34]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/3bf8baa743aef033?placement_id=316&placement_na[%E2%80%A6]cement_name}&campaign_name=CPA+-+Games+-+WW+-+T1&ad_name=0121_games_3117]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=4020f741-0e77-4407-b6a7-191b38794d34]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=4020f741-0e77-4407-b6a7-191b38794d34]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=4020f741-0e77-4407-b6a7-191b38794d34]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=4020f741-0e77-4407-b6a7-191b38794d34]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://ads.bullion.media/Hosted_videos/games_optimized/20210323_video_mystical_slider_001.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="4">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0322_games_3111]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3111">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/3bf8baa743aef033?placement_id=316&placement_na[%E2%80%A6]cement_name}&campaign_name=CPA+-+Games+-+WW+-+T1&ad_name=0322_games_3111]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=e99947fc-d4c2-45b1-b8e4-6207ec9b9886]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/Games_03_07/Creative_02.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="5">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0222_games_3113]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3113">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=c4b9ebe6-6feb-49a6-9d8b-b72e9dfd363f]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/3bf8baa743aef033?placement_id=316&placement_na[%E2%80%A6]cement_name}&campaign_name=CPA+-+Games+-+WW+-+T1&ad_name=0222_games_3113]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/Games_0222/Creative_03.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="6">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0121_games_3119]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3119">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/3bf8baa743aef033?placement_id=316&placement_na[%E2%80%A6]cement_name}&campaign_name=CPA+-+Games+-+WW+-+T1&ad_name=0121_games_3119]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=1e24298d-f1fd-49f8-8682-f0d82d1c8b14]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://ads.bullion.media/Hosted_videos/Optimized_Games/games_video_1.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="7">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0121_dating_3144]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3144">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/067321e39fd3965f?placement_id=316&placement_name=lewdstars&campaign_name=CPA+-+Dating+-+WW+-+T1&ad_name=0121_dating_3144]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=b62a7d8b-7f0d-48f4-a29c-7e8436a82dbe]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/08_25_Dating/Dating_1.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="8">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0121_dating_3143]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=3e7ca604-caf2-445e-9dac-75434823a94b]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3143">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=3e7ca604-caf2-445e-9dac-75434823a94b]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=3e7ca604-caf2-445e-9dac-75434823a94b]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/067321e39fd3965f?placement_id=316&placement_name=lewdstars&campaign_name=CPA+-+Dating+-+WW+-+T1&ad_name=0121_dating_3143]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/09_21_Dating_BF/09_21_Dating1.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+
+<Ad sequence="9">
+
+
+    
+    <InLine>
+        <AdSystem>Bullion Yield</AdSystem>
+        <AdTitle><![CDATA[0121_dating_3142]]></AdTitle>
+        <Impression><![CDATA[https://ads.bullionyield.com/impression?id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Impression>
+        <ViewableImpression><![CDATA[https://ads.bullionyield.com/viewability?id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></ViewableImpression>
+        
+        <Creatives>
+            <Creative id="3142">
+                <Linear>
+                    <Duration>00:00:00</Duration>
+                    <VideoClicks>
+                        <ClickThrough><![CDATA[https://ads.bullionyield.com/click?id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></ClickThrough>
+                    </VideoClicks>
+                    
+<TrackingEvents>
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/viewability?id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Tracking>
+    
+    <Tracking event="start"><![CDATA[https://gpwkr.adsbtrk.com/i/067321e39fd3965f?placement_id=316&placement_name=lewdstars&campaign_name=CPA+-+Dating+-+WW+-+T1&ad_name=0121_dating_3142]]></Tracking>
+    
+    <Tracking event="mute"><![CDATA[https://ads.bullionyield.com/tracking?event=mute&id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Tracking>
+    
+    <Tracking event="creativeView"><![CDATA[https://ads.bullionyield.com/tracking?event=creativeView&id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Tracking>
+    
+    <Tracking event="skip"><![CDATA[https://ads.bullionyield.com/tracking?event=skip&id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Tracking>
+    
+    <Tracking event="complete"><![CDATA[https://ads.bullionyield.com/tracking?event=complete&id=9899e11b-7cc3-448a-bd58-15accf2d9d38]]></Tracking>
+    
+</TrackingEvents>
+
+                    <MediaFiles>
+                        
+                        <MediaFile delivery="progressive" type="video/mp4">
+                            <![CDATA[https://cdn.bullion.media/Hosted_videos/09_21_Dating_BF/09_21_Dating2.mp4]]>
+                        </MediaFile>
+                        
+                        
+                        
+                    </MediaFiles>
+                </Linear>
+            </Creative>
+        </Creatives>
+    </InLine>
+
+</Ad>
+
+
+</VAST>Q¦_«           bKÐD"9ÓbKÐ   Z    O^partitionKey=%28https%2Clewdstars.com%29,:https://ads.bullionyield.com/show/std?scid=532 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Tue, 05 Apr 2022 05:13:37 GMT
+Content-Type: text/xml
+Content-Length: 21418
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://lewdstars.com
+ original-response-headers Server: nginx/1.14.0 (Ubuntu)
+Date: Tue, 05 Apr 2022 05:13:37 GMT
+Content-Type: text/xml
+Content-Length: 21418
+Connection: keep-alive
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://lewdstars.com
+ ctid 1 uncompressed-len 0   Sª
